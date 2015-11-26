@@ -18,12 +18,12 @@ Connect to nREPL and evaluate the `comment`ed lines in `app.cljs` one by one. He
 
 ## Initial state
 
-![first](http://pasteboard.co/2qzvo8o3.png "First")
+![first](https://cdn.pbrd.co/images/2qzvo8o3.png "First")
 
 ## After evaluating first `om/transact!`
 
-![second](http://pasteboard.co/2qzuav8x.png "Second")
+![second](https://cdn.pbrd.co/images/2qzuav8x.png "Second")
 
 ## After evaluating second `om/transact!`
 
-![third](http://pasteboard.co/2qzqT5MM.png "Third")
+![third](https://cdn.pbrd.co/images/2qzqT5MM.png "Third")
